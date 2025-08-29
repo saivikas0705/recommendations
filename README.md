@@ -1,2 +1,2 @@
 # recommendations
-A recommendation system is intelligent software that suggests items, products, or content based on user preferences, behavior, or needs. Used by platforms like Netflix, Amazon, Spotify, and YouTube, it personalizes suggestions to improve user experience while boosting engagement and retention for businesses.
+This project is a course recommendation system for an educational platform using Python and MongoDB. It suggests courses based on a user’s enrolled courses and chosen interest tags by matching ranked tags, providing personalized learning paths similar to platforms like Coursera or Udemy.
